@@ -3,3 +3,10 @@ node_modules
 bower_components
 dist
 npm-debug*
+
+# client output files
+web-client/npm-gui.js
+web-client/vendor.js
+
+# server output files
+npm-gui.js
